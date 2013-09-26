@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface xyzTests : XCTestCase
+@interface AutoLayoutProblemTests : XCTestCase
 
 @end
 
-@implementation xyzTests
+@implementation AutoLayoutProblemTests
 
 - (void)setUp
 {
